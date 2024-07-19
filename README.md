@@ -1,4 +1,4 @@
-# youtube-projects
+# YouTube projects
 
 Code for the YouTube channel.
 
